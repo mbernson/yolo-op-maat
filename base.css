@@ -6,3 +6,10 @@ footer {
     margin: 1em auto;
     text-align: center;
 }
+
+.flying {
+	position: relative;
+	top:10%;
+	left:60%;
+	
+}
